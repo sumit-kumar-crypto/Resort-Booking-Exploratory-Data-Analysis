@@ -18,9 +18,12 @@ Higher Charges of City Hotel as compared to Resort Hotel and Higher cancellation
 <img width="304" alt="2" src="https://github.com/sumit-kumar-crypto/Resort-Booking-Exploratory-Data-Analysis/assets/83686292/fde28a01-470c-4a3b-ad81-6fac5efcc42a">
 
 Portugal facing the most number of cancellations.
+
 <img width="304" alt="3" src="https://github.com/sumit-kumar-crypto/Resort-Booking-Exploratory-Data-Analysis/assets/83686292/513c64d8-cc95-42c3-805d-3f07f7301a58">
 
-Online Travel Agents and •	Transient customers facing a higher number of cancellations
+Online Travel Agents and Transient customers facing a higher number of cancellations
+
+
 <img width="298" alt="4" src="https://github.com/sumit-kumar-crypto/Resort-Booking-Exploratory-Data-Analysis/assets/83686292/40a6d634-4ffd-498f-849e-080d10ef92b5">
 
 
